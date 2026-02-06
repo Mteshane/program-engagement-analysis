@@ -18,7 +18,7 @@ and an interactive dashboard.
 - GitHub (documentation and version control)
 
 ## Files
-- `Intern_Assignment_User_Activity_Dashboard.xlsx` – Excel analysis and dashboard
+- `Assignment_User_Activity_Dashboard.xlsx` – Excel analysis and dashboard
 - `dashboard.png` – Screenshot of the final dashboard
 
 ## Author
